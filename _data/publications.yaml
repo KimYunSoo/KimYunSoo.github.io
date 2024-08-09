@@ -5,7 +5,7 @@ papers:
     venue: Diagnostics, 2022.
     paper_pdf: https://www.mdpi.com/2075-4418/12/3/637
     code: https://github.com/KimYunSoo/classify_radiomic
-    bibtex: 
+    bibtex: "/assets/publications/diagnostics-v12-i03_20240809.bib"
     image: ./assets/publications/diagnotics2.PNG
     selected: y
 
