@@ -1,0 +1,10 @@
+@INPROCEEDINGS{9736471,
+  author={Kim, Yun Soo and Lee, Jae-Hyeok and Gahm, Jin Kyu},
+  booktitle={2022 IEEE International Conference on Big Data and Smart Computing (BigComp)}, 
+  title={Differentiating Parkinsonian Syndromes Using Distinctive Brain Iron Accumulation Patterns in Susceptibility Weighted Image (SWI)}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={371-373},
+  keywords={Support vector machines;Image segmentation;Pathology;Magnetic resonance imaging;Conferences;Big Data;Feature extraction;Parkinsonian Syndromes;brain iron;SWI;radiomics;machine learning},
+  doi={10.1109/BigComp54360.2022.00083}}
