@@ -30,7 +30,7 @@ papers:
     paper_pdf: https://drive.google.com/file/d/1nzA43oMK9EC11whuSwUx668_hvLMZEFa/view?usp=sharing
     bibtex: 
     notes: 
-    image: assets/publications/pose.PNG
+    image: assets/publications/pose2.PNG
     selected: y
 
   - title: Multiple Sclerosis Lesion Detection using 3D Autoencoder in Brain Magnetic Resonance Images
